@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "ES3",
+    "lib": ["ES2015"],
+    "outDir": "./dist/server",
+    "rootDir": "./src/server",
+    "pretty": true
+
+  }
+}
